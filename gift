@@ -1,8 +1,0 @@
-quickly-transportation/
-│
-├── backend/                 # Server & API
-├── passenger_app/           # Flutter app for passengers
-├── driver_app/              # Flutter app for drivers
-├── admin_dashboard/         # Web dashboard
-├── database/                # Database scripts
-└── docs/                    # Documentation
